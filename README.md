@@ -1,5 +1,5 @@
 # jenkins-secret-rotation
-This project is intended to help rotate the keys used to rotate encryption keys used by `Secret` and `SecretBytes` stored in Jenkins Credentials.
+This project is intended to help rotate encryption keys used by `Secret` and `SecretBytes` as stored in Jenkins Credentials.
 
 ## Usage
 Although this process creates backups of the initial keys, it is still recommended for you to create manual backups first.
